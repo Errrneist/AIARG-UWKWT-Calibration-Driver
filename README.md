@@ -5,3 +5,5 @@
 
 
 A driver for the University of Washington Kirsten Wind Tunnel to perform custom calibration tasks. 
+
+Update 20180301: There is a Functions VI being created to demonstrate the features in the program.
