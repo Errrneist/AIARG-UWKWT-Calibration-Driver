@@ -21,7 +21,9 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Calibrate" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">3</Property>
-			<Item Name="NormalBeam" Type="Folder"/>
+			<Item Name="NormalBeam" Type="Folder">
+				<Item Name="NormalBeam.vi" Type="VI" URL="../../../../Google 云端硬盘/Workspace/Labview/Workspace/AIARG_Balance_Driver/NormalBeam.vi"/>
+			</Item>
 			<Item Name="Axial" Type="Folder"/>
 			<Item Name="n" Type="Folder"/>
 			<Item Name="P.M." Type="Folder"/>
@@ -271,6 +273,7 @@
 				<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
 				<Item Name="LVDateTimeRec.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVDateTimeRec.ctl"/>
 				<Item Name="LVRectTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRectTypeDef.ctl"/>
+				<Item Name="NI_Matrix.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/Matrix/NI_Matrix.lvlib"/>
 				<Item Name="Not Found Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Not Found Dialog.vi"/>
 				<Item Name="Number of Waveform Samples.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTOps.llb/Number of Waveform Samples.vi"/>
 				<Item Name="Open File+.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Open File+.vi"/>
