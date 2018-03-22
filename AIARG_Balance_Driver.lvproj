@@ -22,7 +22,7 @@
 		<Item Name="Calibrate" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">3</Property>
 			<Item Name="NormalBeam" Type="Folder">
-				<Item Name="NormalBeam.vi" Type="VI" URL="../../../../Google 云端硬盘/Workspace/Labview/Workspace/AIARG_Balance_Driver/NormalBeam.vi"/>
+				<Item Name="NormalBeam.vi" Type="VI" URL="../NormalBeam.vi"/>
 			</Item>
 			<Item Name="Axial" Type="Folder"/>
 			<Item Name="n" Type="Folder"/>
