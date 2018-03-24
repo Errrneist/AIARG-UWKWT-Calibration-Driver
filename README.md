@@ -1,6 +1,6 @@
 # AIARG-UWKWT-Calibration-Driver
-# UW - Aircraft Icing and Aerodynamics Research Group
-# Kirsten Wind Tunnel (KWT)
+## UW - Aircraft Icing and Aerodynamics Research Group
+## Kirsten Wind Tunnel (KWT)
 
 
 
