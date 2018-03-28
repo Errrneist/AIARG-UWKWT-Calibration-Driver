@@ -5,15 +5,25 @@
 
 ## Contributor
 **Professor**
+
 *Christopher Lum*
+
 *Mohammad Reza Soltani*
+
 **Developer**
+
 *Hongjun Wu*
+
 **Lab Manager**
+
 *Kevin Ho*
+
 **Windtunnel Support**
+
 *Hannah Stevens*
+
 **Staff**
+
 *Rami Slim*
 
 
