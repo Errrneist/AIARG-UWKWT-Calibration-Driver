@@ -7,7 +7,7 @@
 ## Contributor
 **Professor**
 
-* *C. Lum*
+* *[C. Lum](https://github.com/clum)*
 
 * *M. Soltani*
 
