@@ -13,7 +13,7 @@
 
 **Developer**
 
-* *H. Wu*
+* *[H. Wu](https://github.com/Errrneist)*
 
 **Lab Manager**
 
