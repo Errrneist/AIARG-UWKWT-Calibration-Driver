@@ -7,25 +7,25 @@ A driver for the University of Washington Kirsten Wind Tunnel to perform custom 
 ## Contributor
 **Professor**
 
-* *Christopher Lum*
+* *C. Lum*
 
-* *Mohammad Reza Soltani*
+* *M. Soltani*
 
 **Developer**
 
-*Hongjun Wu*
+* *H. Wu*
 
 **Lab Manager**
 
-*Kevin Ho*
+* *K. Ho*
 
 **Windtunnel Support**
 
-*Hannah Stevens*
+* *H. Stevens*
 
 **Staff**
 
-*Rami Slim*
+* *R. Slim*
 
 ## Stage I: Drafting and Function Testing
 * Update 20171207: Project created.
