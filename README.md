@@ -7,9 +7,9 @@ A driver for the University of Washington Kirsten Wind Tunnel to perform custom 
 ## Contributor
 **Professor**
 
-*Christopher Lum*
+* *Christopher Lum*
 
-*Mohammad Reza Soltani*
+* *Mohammad Reza Soltani*
 
 **Developer**
 
