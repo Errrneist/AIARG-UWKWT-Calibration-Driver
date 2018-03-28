@@ -4,17 +4,17 @@
 *William E. Boeing Department of Aeronautics & Astronautics, Boeing, NASA*
 
 ## Contributor
-**Professor
-*Christopher Lum
-*Mohammad Reza Soltani
-**Developer
-*Hongjun Wu
-**Lab Manager
-*Kevin Ho
-**Windtunnel Support
-*Hannah Stevens
-**Staff
-*Rami Slim
+**Professor**
+*Christopher Lum*
+*Mohammad Reza Soltani*
+**Developer**
+*Hongjun Wu*
+**Lab Manager**
+*Kevin Ho*
+**Windtunnel Support**
+*Hannah Stevens*
+**Staff**
+*Rami Slim*
 
 
 
