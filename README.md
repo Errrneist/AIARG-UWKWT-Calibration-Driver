@@ -2,6 +2,7 @@
 **UW - Aircraft Icing and Aerodynamics Research Group - Kirsten Wind Tunnel**
 
 A driver for the University of Washington Kirsten Wind Tunnel to perform custom calibration tasks. 
+* Based on Labview and ULx Package for Labview.
 
 ## Stage I
 * Update 20180220: Completed the main panel. Able to switch panels in between different VIs.
