@@ -2,7 +2,8 @@
 **University of Washington Kirsten Wind Tunnel- Aircraft Icing and Aerodynamics Research Group**
 
 *William E. Boeing Department of Aeronautics & Astronautics, Boeing, NASA*
-
+A driver for the University of Washington Kirsten Wind Tunnel to perform custom calibration tasks. 
+* Based on Labview and ULx Package for Labview.
 ## Contributor
 **Professor**
 
@@ -25,11 +26,6 @@
 **Staff**
 
 *Rami Slim*
-
-
-
-A driver for the University of Washington Kirsten Wind Tunnel to perform custom calibration tasks. 
-* Based on Labview and ULx Package for Labview.
 
 ## Stage I: Drafting and Function Testing
 * Update 20171207: Project created.
