@@ -5,6 +5,10 @@ A driver for the University of Washington Kirsten Wind Tunnel to perform custom 
 * Based on Labview and ULx Package for Labview.
 
 ## Stage I: Drafting and Function Testing
+* Update 20171207: Project created.
+* Update 20171209: Finished theory building.
+* Update 20180126: Completed project structure.
+* Update 20180128: Uploaded code from Perforce to Github for developing convience.
 * Update 20180220: Completed the main panel. Able to switch panels in between different VIs.
 * Update 20180301: There is a Functions VI being created to demonstrate the features in the program.
 ## Stage II: Framework Development
