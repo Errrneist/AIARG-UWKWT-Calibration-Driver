@@ -3,6 +3,21 @@
 
 *William E. Boeing Department of Aeronautics & Astronautics, Boeing, NASA*
 
+## Contributor
+**Professor
+*Christopher Lum
+*Mohammad Reza Soltani
+**Developer
+*Hongjun Wu
+**Lab Manager
+*Kevin Ho
+**Windtunnel Support
+*Hannah Stevens
+**Staff
+*Rami Slim
+
+
+
 A driver for the University of Washington Kirsten Wind Tunnel to perform custom calibration tasks. 
 * Based on Labview and ULx Package for Labview.
 
