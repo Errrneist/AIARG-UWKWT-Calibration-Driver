@@ -31,6 +31,7 @@
 #### Stage I: Drafting and Function Testing
 * Update 20171207: Project created.
 * Update 20171209: Finished theory building.
+* Update 20171210: Downloaded ULx library and documents.
 * Update 20180126: Completed project structure.
 * Update 20180128: Uploaded code from Perforce to Github for developing convience.
 * Update 20180220: Completed the main panel. Able to switch panels in between different VIs.
