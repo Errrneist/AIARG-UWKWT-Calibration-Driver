@@ -43,7 +43,7 @@
 * Update 20180324: Fixed a small issue that the sample button does not latch.
 * Update 20180325: Project permitted by Boeing. Determined future features to add.
 #### Stage III: Engineering Sample MK-I
-* Update 20180326: Engineering Sample MK-I released.
+* Update 20180326: Engineering Sample MK-I(Normal Beam.vi) released.
 * Update 20180327: Might need to rewrite the main framework to optimize performance.
 * Update 20180328: Decided to rewrite the main framework. GUI design planned.
 #### Stage IV: Engineering Sample MK-II
