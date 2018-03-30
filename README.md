@@ -1,7 +1,7 @@
 # AIARG-UWKWT-Calibration-Driver
 **[University of Washington](http://www.washington.edu/) [Kirsten Wind Tunnel](https://www.aa.washington.edu/AERL/KWT)- [Aircraft Icing and Aerodynamics Research Group](https://www.aa.washington.edu/research/AIARG)**
 
-*William E. Boeing Department of Aeronautics & Astronautics, Boeing, NASA*
+*[William E. Boeing Department of Aeronautics & Astronautics](https://www.aa.washington.edu/), [Boeing](www.boeing.com), [NASA](https://www.nasa.gov/)*
 * A driver for the University of Washington Kirsten Wind Tunnel to perform custom calibration tasks. 
 * Based on Labview and ULx Package for Labview.
 ## Contributor
