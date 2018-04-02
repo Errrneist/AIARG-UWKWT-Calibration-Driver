@@ -57,4 +57,9 @@
 * Update 20180406: Added new feature: Waveform Graph
 * Update 20180407: Engineering Samle MK-II released.
 #### Stage V: Engineering Sample MK-III (Statistical Features)
+#### Stage VI: Engineering Sample MK-IV (File Management and Output)
+#### Stage VII: Beta Sample I (Hardware Testing)
+#### Stage VIII: Beta Sample II (Optimization)
+#### Stage VX: Golden Master Edition (Review)
+#### Stage X: Final
 
