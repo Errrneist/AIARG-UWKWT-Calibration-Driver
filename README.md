@@ -30,7 +30,7 @@
 ## Update History
 #### Stage I: Drafting and Function Testing
 * Update 20171207: Project created.
-* Update 20171209: Finished theory building.
+* Update 20171209: Finished theory building and a flow chart is being created.
 * Update 20171210: Downloaded ULx library and documents.
 * Update 20171217: Completed first test program.
 * Update 20180126: Completed project structure.
