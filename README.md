@@ -48,4 +48,5 @@
 * Update 20180328: After discussion, decided to rewrite the main framework. GUI design planned.
 #### Stage IV: Engineering Sample MK-II
 * Update 20180329: Based on discussion, rewriting framework and GUI redesign started. The ES file(MK-II) is "Axial.vi".
-* Update 20180402: Found a way to work around the "Big BUG" issue. 
+* Update 20180401: Found a way to work around the "Big BUG" issue. Seems like it lacks a while loop.
+* Update 20180402: The "BIG BUG" issue is solved.
