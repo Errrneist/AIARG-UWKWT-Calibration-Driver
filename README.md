@@ -47,15 +47,15 @@
 * Update 20180326: Engineering Sample MK-I (Normal Beam.vi) released.
 * Update 20180327: Might need to rewrite the main framework to optimize performance.
 * Update 20180328: After discussion, decided to rewrite the main framework. GUI design planned.
-#### Stage IV: Engineering Sample MK-II (Data Collection and Channel Module)
+#### Stage IV: Engineering Sample MK-II (Data Collection and Channel Module) (CURRENT)
 * Update 20180329: Based on discussion, rewriting framework and GUI redesign started. The ES file (MK-II) is "Axial.vi".
 * Update 20180401: Found a way to work around the "BIG BUG" issue.
 * Update 20180402: The "BIG BUG" issue is solved after complete rewrite of main framework.
-* Update 20180403: Wired up all 6 channels.
-* Update 20180404: Added new feature: Main channel selection and its indicator.
-* Update 20180405: Main Channel Selection (Universal Module) completed.
-* Update 20180406: Added new feature: Waveform Graph
-* Update 20180407: Engineering Samle MK-II released.
+* Plan 20180403: Wired up all 6 channels.
+* Plan 20180404: Added new feature: Main channel selection and its indicator.
+* Plan 20180405: Main Channel Selection (Universal Module) completed.
+* Plan 20180406: Added new feature: Waveform Graph
+* Plan 20180407: Engineering Samle MK-II released.
 #### Stage V: Engineering Sample MK-III (Statistical Features)
 #### Stage VI: Engineering Sample MK-IV (File Management and Output)
 #### Stage VII: Beta Sample I (Hardware Testing)
