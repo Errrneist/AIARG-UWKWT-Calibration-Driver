@@ -53,3 +53,4 @@
 * Update 20180402: The "BIG BUG" issue is solved after complete rewrite of main framework.
 * Update 20180403: Wired up all 6 channels.
 * Update 20180404: Added new feature: Main channel selection and its indicator.
+* Update 20180405: Main Channel Selection (Universal Module) completed.
