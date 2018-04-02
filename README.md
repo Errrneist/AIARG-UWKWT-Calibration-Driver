@@ -49,7 +49,7 @@
 * Update 20180328: After discussion, decided to rewrite the main framework. GUI design planned.
 #### Stage IV: Engineering Sample MK-II
 * Update 20180329: Based on discussion, rewriting framework and GUI redesign started. The ES file (MK-II) is "Axial.vi".
-* Update 20180401: Found a way to work around the "BIG BUG" issue. Seems like it lacks a while loop.
-* Update 20180402: The "BIG BUG" issue is solved.
+* Update 20180401: Found a way to work around the "BIG BUG" issue.
+* Update 20180402: The "BIG BUG" issue is solved after complete rewrite of main framework.
 * Update 20180403: Wired up all 6 channels.
 * Update 20180404: Added new feature: Main channel selection and its indicator.
