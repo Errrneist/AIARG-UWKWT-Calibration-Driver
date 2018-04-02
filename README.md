@@ -39,7 +39,7 @@
 * Update 20180301: There is a Functions VI being created to demonstrate the features in the program.
 #### Stage II: Framework Development
 * Update 20180315: There is a "BIG BUG" issue that sample button doesn't latch when pressed once.
-* Update 20180322: There is a ES file "Normal Beam.vi" File (MK-I) that demonstrates a big chunk of the program.
+* Update 20180322: There is a ES file "Normal Beam.vi" File (MK-I) that demonstrates basic functions of the program.
 * Update 20180323: Fixed a bug of connecting the axis of the plot to opposite side, and restructured the code.
 * Update 20180324: Fixed a small issue that the sample button does not latch.
 * Update 20180325: Project continueing permitted by Boeing. Determined future features to add.
@@ -55,5 +55,6 @@
 * Update 20180404: Added new feature: Main channel selection and its indicator.
 * Update 20180405: Main Channel Selection (Universal Module) completed.
 * Update 20180406: Added new feature: Waveform Graph
+* Update 20180407: Engineering Samle MK-II released.
 #### Stage V: Engineering Sample MK-III (Statistical Features)
 
