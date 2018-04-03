@@ -58,8 +58,9 @@
 * Plan 20180407: Engineering Samle MK-II released.
 #### Stage V: Engineering Sample MK-III (Statistical Features)
 * Plan 20180408: Added the "Final Matrix" onto the front panel.
-* Plan 20180409: Attempted to write the matrix into a file which path is chosen by the user.
-* Plan 20180410: Research line fit and statistical implementation in LabView.
+* Plan 20180409: Build main matrix with given data.
+* Plan 20180410: Attempt to write the matrix to a file.
+* Plan 20180412: Research line fit and statistical implementation in LabView.
 #### Stage VI: Engineering Sample MK-IV (File Management and Output)
 #### Stage VII: Beta Sample I (Hardware Testing)
 #### Stage VIII: Beta Sample II (Optimization)
