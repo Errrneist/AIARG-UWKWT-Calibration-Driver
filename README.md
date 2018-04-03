@@ -54,9 +54,11 @@
 * Plan 20180403: Wired up all 6 channels.
 * Plan 20180404: Added new feature: Main channel selection and its indicator.
 * Plan 20180405: Main Channel Selection (Universal Module) completed.
-* Plan 20180406: Added new feature: Waveform Graph
+* Plan 20180406: Added new feature: Waveform Graph.
 * Plan 20180407: Engineering Samle MK-II released.
 #### Stage V: Engineering Sample MK-III (Statistical Features)
+* Plan 20180408: Added the "Final Matrix" onto the front panel.
+* Plan 20180409: Attempted to write the matrix into a file which path is chosen by the user.
 #### Stage VI: Engineering Sample MK-IV (File Management and Output)
 #### Stage VII: Beta Sample I (Hardware Testing)
 #### Stage VIII: Beta Sample II (Optimization)
