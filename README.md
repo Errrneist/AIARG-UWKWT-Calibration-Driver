@@ -51,7 +51,7 @@
 * Update 20180329: Based on discussion, rewriting framework and GUI redesign started. The ES file (MK-II) is "Axial.vi".
 * Update 20180401: Found a way to work around the "BIG BUG" issue.
 * Update 20180402: The "BIG BUG" issue is solved after complete rewrite of main framework.
-* Plan 20180403: Wired up all 6 channels.
+* Update 20180403: Wired up all 6 channels.
 * Plan 20180404: Added new feature: Main channel selection and its indicator.
 * Plan 20180405: Main Channel Selection (Universal Module) completed.
 * Plan 20180406: Added new feature: Waveform Graph.
