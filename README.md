@@ -5,6 +5,10 @@
 * A software for the University of Washington Kirsten Wind Tunnel to perform custom calibration tasks. 
 * Based on Labview and ULx Package for Labview.
 ## Contributor
+**Head of the Project**
+
+* *M. B. Bragg*
+
 **Professor**
 
 * *[C. Lum](https://github.com/clum)*
