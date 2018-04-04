@@ -52,15 +52,17 @@
 * Update 20180401: Found a way to work around the "BIG BUG" issue.
 * Update 20180402: The "BIG BUG" issue is solved after complete rewrite of main framework.
 * Update 20180403: Wired up all 6 channels.
-* Plan 20180404: Added new feature: Main channel selection and its indicator.
-* Plan 20180405: Main Channel Selection (Universal Module) completed.
-* Plan 20180406: Added new feature: Waveform Graph.
-* Plan 20180407: Engineering Samle MK-II released.
+* Update 20180404: Added new feature: Main channel selection and its indicator.
+* Update 20180405: Main Channel Selection (Universal Module) completed.
+* Update 20180406: Added new feature: Waveform Graph.
+* Update 20180407: Engineering Samle MK-II released.
 #### Stage V: Engineering Sample MK-III (Statistical Features)
-* Plan 20180408: Added the "Final Matrix" onto the front panel.
-* Plan 20180409: Build main matrix with given data.
-* Plan 20180410: Attempt to write the matrix to a file. (DataFile.txt)
-* Plan 20180412: Research line fit and statistical implementation in LabView.
+* Update 20180408: Added the "Final Matrix" onto the front panel.
+* Update 20180409: Build main matrix with given data.
+* Update 20180410: Attempt to write the matrix to a file. (DataFile.txt)
+* Update 20180412: Add a header to the output text file.
+* Update 20180413: Add "Main Channel" and "Time" to the header.
+* Update 20180414: Optimize the format of the txt file.
 #### Stage VI: Engineering Sample MK-IV (File Management and Output)
 #### Stage VII: Beta Sample I (Hardware Testing)
 #### Stage VIII: Beta Sample II (Optimization)
