@@ -22,45 +22,45 @@
 		<Item Name="Calibrate" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">3</Property>
 			<Item Name="NormalBeam" Type="Folder">
-				<Item Name="NormalBeam.vi" Type="VI" URL="/C/Users/Errrneist/Documents/GitHub/AIARG-UWKWT-Calibration-Driver/NormalBeam.vi"/>
+				<Item Name="NormalBeam.vi" Type="VI" URL="../NormalBeam.vi"/>
 			</Item>
 			<Item Name="Axial" Type="Folder">
-				<Item Name="Axial.vi" Type="VI" URL="/C/Users/Errrneist/Documents/GitHub/AIARG-UWKWT-Calibration-Driver/Axial.vi"/>
+				<Item Name="Axial.vi" Type="VI" URL="../Axial.vi"/>
 			</Item>
 			<Item Name="n" Type="Folder"/>
 			<Item Name="P.M." Type="Folder"/>
 			<Item Name="S.F." Type="Folder"/>
 			<Item Name="RollingMoment" Type="Folder"/>
-			<Item Name="Calibrate.vi" Type="VI" URL="/C/Users/Errrneist/Documents/GitHub/AIARG-UWKWT-Calibration-Driver/Calibrate.vi"/>
+			<Item Name="Calibrate.vi" Type="VI" URL="../Calibrate.vi"/>
 		</Item>
 		<Item Name="Collect" Type="Folder">
-			<Item Name="Collect.vi" Type="VI" URL="/C/Users/Errrneist/Documents/GitHub/AIARG-UWKWT-Calibration-Driver/Collect.vi"/>
+			<Item Name="Collect.vi" Type="VI" URL="../Collect.vi"/>
 		</Item>
 		<Item Name="Support VIs" Type="Folder">
 			<Item Name="ULx Library" Type="Folder">
-				<Item Name="Create Channel.llb" Type="Document" URL="/C/Users/Errrneist/Documents/GitHub/AIARG-UWKWT-Calibration-Driver/ULx_lib/ULx/Create Channel.llb"/>
-				<Item Name="CreateWfm.llb" Type="Document" URL="/C/Users/Errrneist/Documents/GitHub/AIARG-UWKWT-Calibration-Driver/ULx_lib/ULx/CreateWfm.llb"/>
-				<Item Name="Ctls.llb" Type="Document" URL="/C/Users/Errrneist/Documents/GitHub/AIARG-UWKWT-Calibration-Driver/ULx_lib/ULx/Ctls.llb"/>
-				<Item Name="Miscellaneous.llb" Type="Document" URL="/C/Users/Errrneist/Documents/GitHub/AIARG-UWKWT-Calibration-Driver/ULx_lib/ULx/Miscellaneous.llb"/>
-				<Item Name="Read.llb" Type="Document" URL="/C/Users/Errrneist/Documents/GitHub/AIARG-UWKWT-Calibration-Driver/ULx_lib/ULx/Read.llb"/>
-				<Item Name="Task.llb" Type="Document" URL="/C/Users/Errrneist/Documents/GitHub/AIARG-UWKWT-Calibration-Driver/ULx_lib/ULx/Task.llb"/>
-				<Item Name="Timing.llb" Type="Document" URL="/C/Users/Errrneist/Documents/GitHub/AIARG-UWKWT-Calibration-Driver/ULx_lib/ULx/Timing.llb"/>
-				<Item Name="Trigger.llb" Type="Document" URL="/C/Users/Errrneist/Documents/GitHub/AIARG-UWKWT-Calibration-Driver/ULx_lib/ULx/Trigger.llb"/>
-				<Item Name="ULx_LV.dll" Type="Document" URL="/C/Users/Errrneist/Documents/GitHub/AIARG-UWKWT-Calibration-Driver/ULx_lib/ULx/ULx_LV.dll"/>
-				<Item Name="Write.llb" Type="Document" URL="/C/Users/Errrneist/Documents/GitHub/AIARG-UWKWT-Calibration-Driver/ULx_lib/ULx/Write.llb"/>
+				<Item Name="Create Channel.llb" Type="Document" URL="../ULx_lib/ULx/Create Channel.llb"/>
+				<Item Name="CreateWfm.llb" Type="Document" URL="../ULx_lib/ULx/CreateWfm.llb"/>
+				<Item Name="Ctls.llb" Type="Document" URL="../ULx_lib/ULx/Ctls.llb"/>
+				<Item Name="Miscellaneous.llb" Type="Document" URL="../ULx_lib/ULx/Miscellaneous.llb"/>
+				<Item Name="Read.llb" Type="Document" URL="../ULx_lib/ULx/Read.llb"/>
+				<Item Name="Task.llb" Type="Document" URL="../ULx_lib/ULx/Task.llb"/>
+				<Item Name="Timing.llb" Type="Document" URL="../ULx_lib/ULx/Timing.llb"/>
+				<Item Name="Trigger.llb" Type="Document" URL="../ULx_lib/ULx/Trigger.llb"/>
+				<Item Name="ULx_LV.dll" Type="Document" URL="../ULx_lib/ULx/ULx_LV.dll"/>
+				<Item Name="Write.llb" Type="Document" URL="../ULx_lib/ULx/Write.llb"/>
 			</Item>
-			<Item Name="ULx Library.lvlib" Type="Library" URL="/C/Users/Errrneist/Documents/GitHub/AIARG-UWKWT-Calibration-Driver/ULx Library.lvlib"/>
+			<Item Name="ULx Library.lvlib" Type="Library" URL="../ULx Library.lvlib"/>
 		</Item>
 		<Item Name="Testing" Type="Folder">
-			<Item Name="TestButton.vi" Type="VI" URL="/C/Users/Errrneist/Documents/GitHub/AIARG-UWKWT-Calibration-Driver/TestButton.vi"/>
-			<Item Name="ULx_Functions.vi" Type="VI" URL="/C/Users/Errrneist/Documents/GitHub/AIARG-UWKWT-Calibration-Driver/ULx_Functions.vi"/>
+			<Item Name="TestButton.vi" Type="VI" URL="../TestButton.vi"/>
+			<Item Name="ULx_Functions.vi" Type="VI" URL="../ULx_Functions.vi"/>
 		</Item>
 		<Item Name="Trash" Type="Folder">
-			<Item Name="Main_Playground.vi" Type="VI" URL="/C/Users/Errrneist/Documents/GitHub/AIARG-UWKWT-Calibration-Driver/Main_Playground.vi"/>
-			<Item Name="Main_Window.vi" Type="VI" URL="/C/Users/Errrneist/Documents/GitHub/AIARG-UWKWT-Calibration-Driver/Main_Window.vi"/>
-			<Item Name="Random_Number.vi" Type="VI" URL="/C/Users/Errrneist/Documents/GitHub/AIARG-UWKWT-Calibration-Driver/Random_Number.vi"/>
+			<Item Name="Main_Playground.vi" Type="VI" URL="../Main_Playground.vi"/>
+			<Item Name="Main_Window.vi" Type="VI" URL="../Main_Window.vi"/>
+			<Item Name="Random_Number.vi" Type="VI" URL="../Random_Number.vi"/>
 		</Item>
-		<Item Name="Main_Panel.vi" Type="VI" URL="/C/Users/Errrneist/Documents/GitHub/AIARG-UWKWT-Calibration-Driver/Main_Panel.vi"/>
+		<Item Name="Main_Panel.vi" Type="VI" URL="../Main_Panel.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="2D Plot Datatype.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Plot/2D Plot Datatype/2D Plot Datatype.lvclass"/>
@@ -177,7 +177,6 @@
 				<Item Name="ex_BackUpExistFileTDM.vi" Type="VI" URL="/&lt;vilib&gt;/express/express output/ExFileWriteBlock.llb/ex_BackUpExistFileTDM.vi"/>
 				<Item Name="ex_BackUpExistFileTDMS.vi" Type="VI" URL="/&lt;vilib&gt;/express/express output/ExFileWriteBlock.llb/ex_BackUpExistFileTDMS.vi"/>
 				<Item Name="ex_BuildFilepath.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/ExFile.llb/ex_BuildFilepath.vi"/>
-				<Item Name="ex_BuildTextVarProps.ctl" Type="VI" URL="/&lt;vilib&gt;/express/express output/BuildTextBlock.llb/ex_BuildTextVarProps.ctl"/>
 				<Item Name="ex_CheckAllT0DtEqual.vi" Type="VI" URL="/&lt;vilib&gt;/express/express output/ExFileWriteBlock.llb/ex_CheckAllT0DtEqual.vi"/>
 				<Item Name="ex_CheckAllT0DtEqualAttr.vi" Type="VI" URL="/&lt;vilib&gt;/express/express output/ExFileWriteBlock.llb/ex_CheckAllT0DtEqualAttr.vi"/>
 				<Item Name="ex_CheckAllT0DtEqualWfm.vi" Type="VI" URL="/&lt;vilib&gt;/express/express output/ExFileWriteBlock.llb/ex_CheckAllT0DtEqualWfm.vi"/>
@@ -443,7 +442,6 @@
 				<Item Name="XYPlotMatrix Ctrl Act Cluster.ctl" Type="VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Plot/Action String/XYPlotMatrix Ctrl Act Cluster.ctl"/>
 				<Item Name="XYPlotMatrix Ctrl Act Queue.ctl" Type="VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Plot/Action String/XYPlotMatrix Ctrl Act Queue.ctl"/>
 			</Item>
-			<Item Name="_LaunchHelp.vi" Type="VI" URL="/&lt;helpdir&gt;/_LaunchHelp.vi"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="lvStorage.dll" Type="Document" URL="lvStorage.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
