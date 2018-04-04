@@ -1,4 +1,8 @@
-[Weight] [Normal] [Axial] [n] [P.M.] [S.F.] [Rolling Moment]
+AIARG-UWKWT-Calibration Data
+Date: 2018/4/4 3:57:26
+Main Channel: Normal Force
+--------------------------------------------------------------------
+[Weight] [Norm] [Axial] [n]     [P.M.]  [S.F.]  [Rolling Moment]
 0.000	NaN	0.500	NaN	NaN	NaN	NaN
 0.000	NaN	-0.500	NaN	NaN	NaN	NaN
 0.000	-0.000	0.500	-0.000	-0.000	-0.000	2.487
@@ -16,3 +20,9 @@
 0.000	NaN	0.500	NaN	NaN	NaN	NaN
 0.000	-0.000	-0.500	NaN	NaN	NaN	NaN
 0.000	-0.000	0.500	-0.000	NaN	NaN	NaN
+0.000	NaN	-0.500	NaN	NaN	NaN	NaN
+0.000	NaN	0.500	NaN	NaN	NaN	2.487
+0.000	-0.000	-0.500	-0.000	NaN	NaN	NaN
+0.000	-0.000	0.500	NaN	NaN	NaN	NaN
+0.000	-0.000	-0.500	NaN	NaN	NaN	NaN
+0.000	NaN	0.500	NaN	NaN	NaN	NaN
