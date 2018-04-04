@@ -53,7 +53,7 @@
 * Update 20180402: The "BIG BUG" issue is solved after complete rewrite of main framework.
 * Update 20180403: Wired up all 6 channels.
 * Update 20180404: Added new feature: Main channel selection and its indicator.
-*                  Main Channel Selection (Universal Module) completed.
+** Main Channel Selection (Universal Module) completed.
 *                  Added new feature: Waveform Graph.
 *                  Engineering Samle MK-II released.
 #### Stage V: Engineering Sample MK-III (File Management and Output)
