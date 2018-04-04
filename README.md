@@ -68,6 +68,9 @@
 * Update 20180414: Changed plot xy matrix to xy graph.
 * Update 20180415: Plotted graphs to xy graph.
 * Update 20180416: Changed color and plot line style to white.
+* Update 20180417: Optimized GUI.
+* Update 20180418: Organized file structure and optimized performance.
+* Update 20180419: Engineering Sample MK-IV Released.
 #### Stage VII: Beta Sample I (Hardware Testing)
 #### Stage VIII: Beta Sample II (Optimization)
 #### Stage VX: Golden Master Edition (Review)
