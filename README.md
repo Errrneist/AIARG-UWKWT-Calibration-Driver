@@ -53,17 +53,17 @@
 * Update 20180402: The "BIG BUG" issue is solved after complete rewrite of main framework.
 * Update 20180403: Wired up all 6 channels.
 * Update 20180404: Added new feature: Main channel selection and its indicator.
-* Update 20180405: Main Channel Selection (Universal Module) completed.
-* Update 20180406: Added new feature: Waveform Graph.
-* Update 20180407: Engineering Samle MK-II released.
+*                  Main Channel Selection (Universal Module) completed.
+*                  Added new feature: Waveform Graph.
+*                  Engineering Samle MK-II released.
 #### Stage V: Engineering Sample MK-III (File Management and Output)
-* Update 20180408: Added the "Final Matrix" onto the front panel.
-* Update 20180409: Build main matrix with given data.
-* Update 20180410: Attempt to write the matrix to a file. (DataFile.txt)
-* Update 20180412: Add a header to the output text file.
-* Update 20180413: Add "Main Channel" and "Time" to the header.
-* Update 20180414: Optimize the format of the txt file.
-* Update 20180415: Engineering Sample MK-III Released. (Axial.vi)
+* Update 20180405: Added the "Final Matrix" onto the front panel.
+*                  Build main matrix with given data.
+*                  Attempt to write the matrix to a file. (DataFile.txt)
+*                  Add a header to the output text file.
+*                  Add "Main Channel" and "Time" to the header.
+*                  Optimize the format of the txt file.
+*                  Engineering Sample MK-III Released. (Axial.vi)
 #### Stage VI: Engineering Sample MK-IV (Statistical Features)
 #### Stage VII: Beta Sample I (Hardware Testing)
 #### Stage VIII: Beta Sample II (Optimization)
