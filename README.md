@@ -15,7 +15,7 @@
 
 * *[Dr. M. R. Soltani](http://ae.sharif.edu/~web/homepage.php?username=msoltani)*
 
-**Developer**
+**Software Developer**
 
 * *[H. Wu](https://github.com/Errrneist)*
 
