@@ -13,7 +13,7 @@
 
 * *[Dr. C. Lum](http://faculty.washington.edu/lum/)*
 
-* *[Dr. M. Soltani](http://ae.sharif.edu/~web/homepage.php?username=msoltani)*
+* *[Dr. M. R. Soltani](http://ae.sharif.edu/~web/homepage.php?username=msoltani)*
 
 **Developer**
 
