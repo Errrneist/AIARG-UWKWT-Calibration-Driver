@@ -74,7 +74,8 @@
 * Update 20180416: Changed color and plot line style to white.
 * Update 20180417: Optimized GUI.
 * Update 20180418: Organized file structure and optimized performance.
-* Update 20180419: Engineering Sample MK-IV Released.
+* Update 20180419: Add calculation of slope, SD, and r^2 to each graph.
+* Update 20180420: Add a module to find best fit for the data.
 #### Stage VII: Beta Sample I (Hardware Testing)
 #### Stage VIII: Beta Sample II (Optimization)
 #### Stage VX: Golden Master Edition (Review)
