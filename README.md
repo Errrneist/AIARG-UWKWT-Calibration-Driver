@@ -7,13 +7,13 @@
 ## Contributor
 **Head of the Project**
 
-* *[M. B. Bragg](https://www.aa.washington.edu/people/faculty/bragg)*
+* *[Dr. M. B. Bragg](https://www.aa.washington.edu/people/faculty/bragg)*
 
 **Professor**
 
-* *[C. Lum](http://faculty.washington.edu/lum/)*
+* *[Dr. C. Lum](http://faculty.washington.edu/lum/)*
 
-* *[M. Soltani](http://ae.sharif.edu/~web/homepage.php?username=msoltani)*
+* *[Dr. M. Soltani](http://ae.sharif.edu/~web/homepage.php?username=msoltani)*
 
 **Developer**
 
