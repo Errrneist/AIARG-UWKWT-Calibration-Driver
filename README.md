@@ -11,7 +11,7 @@
 
 **Professor**
 
-* *[Dr. Christopher Lum](http://faculty.washington.edu/lum/)*
+* *[Dr. Christopher Lum](https://www.aa.washington.edu/people/faculty/lum)*
 
 * *[Dr. Mohamad Reza Soltani](http://ae.sharif.edu/~web/homepage.php?username=msoltani)*
 
