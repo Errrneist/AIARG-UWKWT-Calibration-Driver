@@ -25,7 +25,7 @@
 
 **Windtunnel Support**
 
-* * Hannah Stevens*
+* Hannah Stevens*
 
 **Staff**
 
