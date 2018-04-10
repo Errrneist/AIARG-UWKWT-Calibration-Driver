@@ -7,29 +7,29 @@
 ## Contributor
 **Head of Project**
 
-* *[Dr. M. B. Bragg](https://www.aa.washington.edu/people/faculty/bragg)*
+* *[Dr. Michael B. Bragg](https://www.aa.washington.edu/people/faculty/bragg)*
 
 **Professor**
 
-* *[Dr. C. Lum](http://faculty.washington.edu/lum/)*
+* *[Dr. Christopher Lum](http://faculty.washington.edu/lum/)*
 
-* *[Dr. M. R. Soltani](http://ae.sharif.edu/~web/homepage.php?username=msoltani)*
+* *[Dr. Mohamad Reza Soltani](http://ae.sharif.edu/~web/homepage.php?username=msoltani)*
 
 **Software Developer**
 
-* *[H. Wu](https://github.com/Errrneist)*
+* *[Hongjun Wu](https://github.com/Errrneist)*
 
 **Lab Manager**
 
-* *K. Ho*
+* *Kevin Ho*
 
 **Windtunnel Support**
 
-* *H. Stevens*
+* * Hannah Stevens*
 
 **Staff**
 
-* *R. Slim*
+* *Rami Slim*
 
 ## Update History
 #### Stage I: Drafting and Function Testing
