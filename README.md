@@ -17,7 +17,7 @@
 
 **Software Developer**
 
-* *[Hongjun Wu](https://github.com/Errrneist/AIARG-UWKWT-Calibration-Driver/Documents/Resume-Github.docx)*
+* *[Hongjun Wu](AIARG-UWKWT-Calibration-Driver/Documents/Resume-Github.docx)*
 
 **Lab Manager**
 
