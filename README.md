@@ -1,7 +1,7 @@
 <img align="right" src="https://github.com/Errrneist/AIARG-UWKWT-Calibration-Driver/blob/master/IMG/UW-Icon.jpg" alt="University of Washington" width="100">
 
 # AIARG-UWKWT-Calibration Software
-**[University of Washington](http://www.washington.edu/) [Kirsten Wind Tunnel](https://www.aa.washington.edu/AERL/KWT)- [Aircraft Icing and Aerodynamics Research Group](https://www.aa.washington.edu/research/AIARG)**
+**[University of Washington](http://www.washington.edu/) [Kirsten Wind Tunnel](https://www.aa.washington.edu/AERL/KWT)-[Aircraft Icing and Aerodynamics Research Group](https://www.aa.washington.edu/research/AIARG)**
 
 *[William E. Boeing Department of Aeronautics & Astronautics](https://www.aa.washington.edu/), [Boeing](http://www.boeing.com/), [NASA](https://www.nasa.gov/)*
 * A software for the University of Washington Kirsten Wind Tunnel to perform [Custom Calibration Tasks](https://github.com/Errrneist/AIARG-UWKWT-Calibration-Driver/blob/master/Documents/KWT_Sidewall_Software_Diagram.pdf). 
