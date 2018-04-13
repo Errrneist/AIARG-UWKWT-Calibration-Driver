@@ -7,6 +7,7 @@
 * A software for the University of Washington Kirsten Wind Tunnel to perform custom calibration tasks. 
 * Based on Labview and ULx Package for Labview.
 ## Contributor
+
 **Head of Project**
 
 * *[Dr. Michael B. Bragg](https://www.aa.washington.edu/people/faculty/bragg)*
@@ -32,6 +33,8 @@
 **Staff**
 
 * *Rami Slim*
+
+<img align="right" src="https://github.com/Errrneist/AIARG-UWKWT-Calibration-Driver/blob/master/IMG/UW-AA.jpg" alt="University of Washington" width="350">
 
 ## Update History
 #### Stage I: Drafting and Function Testing
@@ -82,4 +85,5 @@
 #### Stage VIII: Beta Sample II (Optimization)
 #### Stage VX: Golden Master Edition (Review)
 #### Stage X: Final
+
 
