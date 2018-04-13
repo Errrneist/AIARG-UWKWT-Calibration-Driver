@@ -37,8 +37,7 @@
 <img align="right" src="https://github.com/Errrneist/AIARG-UWKWT-Calibration-Driver/blob/master/IMG/UW-AA.jpg" alt="University of Washington" width="350">
 
 ## License
-* [License](https://github.com/Errrneist/AIARG-UWKWT-Calibration-Driver/blob/master/LICENSE.txt)
-* This program is licensed under Apache 2.0.
+* [Apache License 2.0](https://github.com/Errrneist/AIARG-UWKWT-Calibration-Driver/blob/master/LICENSE.txt)
 
 ## Update History
 #### Stage I: Drafting and Function Testing
