@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/Errrneist/AIARG-UWKWT-Calibration-Driver/blob/master/IMG/UW-Icon.jpg" alt="University of Washington" width="100">
+<img align="right" src="https://github.com/Errrneist/AIARG-UWKWT-Calibration-Driver/blob/master/IMG/UW-AA.jpg" alt="University of Washington" width="350">
 
 # AIARG-UWKWT-Calibration Software
 **[University of Washington](http://www.washington.edu/) [Kirsten Wind Tunnel](https://www.aa.washington.edu/AERL/KWT)-[Aircraft Icing and Aerodynamics Research Group](https://www.aa.washington.edu/research/AIARG)**
@@ -9,7 +9,8 @@
 * The software reads and samples signals from six channels and process the data. 
 * It is capable to sample, record, plot, analyze, and save processed matrix to a file.
 
-<img align="right" src="https://github.com/Errrneist/AIARG-UWKWT-Calibration-Driver/blob/master/IMG/UW-AA.jpg" alt="University of Washington" width="350">
+<img align="right" src="https://github.com/Errrneist/AIARG-UWKWT-Calibration-Driver/blob/master/IMG/UW-Icon.jpg" alt="University of Washington" width="100">
+
 
 ## Contributor
 
