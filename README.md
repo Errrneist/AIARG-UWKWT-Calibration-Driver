@@ -4,7 +4,7 @@
 **[University of Washington](http://www.washington.edu/) [Kirsten Wind Tunnel](https://www.aa.washington.edu/AERL/KWT)- [Aircraft Icing and Aerodynamics Research Group](https://www.aa.washington.edu/research/AIARG)**
 
 *[William E. Boeing Department of Aeronautics & Astronautics](https://www.aa.washington.edu/), [Boeing](http://www.boeing.com/), [NASA](https://www.nasa.gov/)*
-* A software for the University of Washington Kirsten Wind Tunnel to perform custom calibration tasks. 
+* A software for the University of Washington Kirsten Wind Tunnel to perform [custom calibration tasks](https://github.com/Errrneist/AIARG-UWKWT-Calibration-Driver/blob/master/Documents/KWT_Sidewall_Software_Diagram.pdf). 
 * Based on Labview and ULx Package for Labview.
 * The software reads and samples signals from six channels and process the data. 
 * It is capable to sample, record, plot, analyze, and save processed matrix to a file.
@@ -44,7 +44,7 @@
 ## Update History
 #### Stage I: Drafting and Function Testing
 * Update 20171207: Project created.
-* Update 20171209: Finished theory building and a flow chart is being created.
+* Update 20171209: Finished theory building and created a flow chart.
 * Update 20171210: Downloaded ULx library and documents.
 * Update 20171217: Completed first test program.
 * Update 20180126: Completed project structure.
