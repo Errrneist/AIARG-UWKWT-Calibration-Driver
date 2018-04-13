@@ -1,3 +1,5 @@
+<img align="right" src="https://docs-assets.developer.apple.com/turicreate/turi-dog.svg" alt="Turi Create" width="100">
+
 # AIARG-UWKWT-Calibration-Software
 **[University of Washington](http://www.washington.edu/) [Kirsten Wind Tunnel](https://www.aa.washington.edu/AERL/KWT)- [Aircraft Icing and Aerodynamics Research Group](https://www.aa.washington.edu/research/AIARG)**
 
