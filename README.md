@@ -7,7 +7,7 @@
 * A software for the University of Washington Kirsten Wind Tunnel to perform [Custom Calibration Tasks](https://github.com/Errrneist/AIARG-UWKWT-Calibration-Driver/blob/master/Documents/KWT_Sidewall_Software_Diagram.pdf). 
 * Based on Labview and [ULx](https://www.mccdaq.com/daq-software/universal-library-extensions-lv.aspx) Package for Labview.
 * The software reads and samples signals from six channels and processes the sampled data.
-* It is capable to sample, record, plot, analyze, and save processed matrix to a file.
+* It is capable to sample, record, plot, fit, analyze, and write Post-Processed matrix to a file.
 
 
 <img align="right" src="https://github.com/Errrneist/AIARG-UWKWT-Calibration-Driver/blob/master/IMG/UW-AA.jpg" alt="University of Washington" width="350">
