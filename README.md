@@ -10,6 +10,7 @@
 * It is capable to sample, record, plot, analyze, and save processed matrix to a file.
 
 <img align="right" src="https://github.com/Errrneist/AIARG-UWKWT-Calibration-Driver/blob/master/IMG/UW-AA.jpg" alt="University of Washington" width="350">
+
 ## Contributor
 
 **Head of Project**
