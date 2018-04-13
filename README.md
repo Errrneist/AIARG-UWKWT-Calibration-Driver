@@ -6,6 +6,8 @@
 *[William E. Boeing Department of Aeronautics & Astronautics](https://www.aa.washington.edu/), [Boeing](http://www.boeing.com/), [NASA](https://www.nasa.gov/)*
 * A software for the University of Washington Kirsten Wind Tunnel to perform custom calibration tasks. 
 * Based on Labview and ULx Package for Labview.
+* The software reads and samples signals from six channels and process the data. 
+* It is capable to sample, record, plot, analyze, and save processed matrix to a file.
 ## Contributor
 
 **Head of Project**
