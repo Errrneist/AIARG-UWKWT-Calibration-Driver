@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/Errrneist/AIARG-UWKWT-Calibration-Driver/blob/master/IMG/UW-AA.jpg" alt="University of Washington" width="100">
+<img align="right" src="https://github.com/Errrneist/AIARG-UWKWT-Calibration-Driver/blob/master/IMG/UW-Icon.jpg" alt="University of Washington" width="100">
 
 # AIARG-UWKWT-Calibration Software
 **[University of Washington](http://www.washington.edu/) [Kirsten Wind Tunnel](https://www.aa.washington.edu/AERL/KWT)- [Aircraft Icing and Aerodynamics Research Group](https://www.aa.washington.edu/research/AIARG)**
@@ -83,3 +83,4 @@
 #### Stage VX: Golden Master Edition (Review)
 #### Stage X: Final
 
+<img align="right" src="https://github.com/Errrneist/AIARG-UWKWT-Calibration-Driver/blob/master/IMG/UW-AA.jpg" alt="University of Washington" width="210">
