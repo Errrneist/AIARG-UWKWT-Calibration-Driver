@@ -8,6 +8,8 @@
 * Based on Labview and [ULx](https://www.mccdaq.com/daq-software/universal-library-extensions-lv.aspx) Package for Labview.
 * The software reads and samples signals from six channels and process the data. 
 * It is capable to sample, record, plot, analyze, and save processed matrix to a file.
+
+<img align="right" src="https://github.com/Errrneist/AIARG-UWKWT-Calibration-Driver/blob/master/IMG/UW-AA.jpg" alt="University of Washington" width="350">
 ## Contributor
 
 **Head of Project**
@@ -36,7 +38,7 @@
 
 * *Rami Slim*
 
-<img align="right" src="https://github.com/Errrneist/AIARG-UWKWT-Calibration-Driver/blob/master/IMG/UW-AA.jpg" alt="University of Washington" width="350">
+
 
 ## License
 * [Apache License 2.0](https://github.com/Errrneist/AIARG-UWKWT-Calibration-Driver/blob/master/LICENSE.txt)
