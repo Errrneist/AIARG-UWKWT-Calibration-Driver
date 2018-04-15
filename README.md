@@ -58,13 +58,14 @@
 * Update 20180226: There is a Functions VI being created to demonstrate the features in the program.
 #### Stage II: Framework Development
 * Update 20180305: There is a "BIG BUG" issue that sample button doesn't latch when pressed once.
-* Update 20180322: There is a ES file "Normal Beam.vi" File that demonstrates basic functions of the program.
-* Update 20180323: Fixed a bug of connecting the axis of the plot to opposite side, and restructured the code.
-* Update 20180324: Fixed a small issue that the sample button does not latch.
-* Update 20180325: Project continueing permitted by Boeing. Determined future features to add.
+* Update 20180312: There is a ES file "Normal Beam.vi" File that demonstrates basic functions of the program.
+* Update 20180313: Fixed a bug of connecting the axis of the plot to opposite side, and restructured the code.
+* Update 20180314: Fixed a small issue that the sample button does not latch.
+* Update 20180315: Project continueing permitted by Boeing. Determined future features to add.
 #### Stage III: Engineering Sample MK-I (Theory Testing)
-* Update 20180326: Might need to rewrite the main framework to optimize performance.
-* Update 20180327: After discussion, decided to rewrite the main framework. GUI design planned.
+* Update 20180316: Might need to rewrite the main framework to optimize performance.
+* Update 20180317: After discussion, decided to rewrite the main framework. GUI design planned.
+* Update 20180325: Main framework rewrote completed and old prototypes are moved to the prototypes folder.
 * Update 20180326: Engineering Sample MK-I (Normal Beam.vi) released.
 #### Stage IV: Engineering Sample MK-II (Data Collection and Channel Module)
 * Update 20180329: Based on discussion, rewriting framework and GUI redesign started. 
