@@ -18,7 +18,7 @@
 
 * *[Dr. Michael B. Bragg](https://www.aa.washington.edu/people/faculty/bragg)*
 
-**Professor**
+**Research Professor**
 
 * *[Dr. Christopher Lum](https://www.aa.washington.edu/people/faculty/lum)*
 
