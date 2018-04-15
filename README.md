@@ -32,7 +32,7 @@
 
 * *Kevin Ho*
 
-**Windtunnel Support**
+**KWT Wind Tunnel Support**
 
 * *Hannah Stevens*
 
