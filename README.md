@@ -47,17 +47,17 @@
 
 ## Update History
 #### Stage I: Drafting and Function Testing
-* Update 20171207: Project created.
+* Update 20171207: Project started after discussion.
 * Update 20171209: Finished theory building and created a flow chart.
 * Update 20171210: Downloaded ULx library and documents.
 * Update 20171217: Completed first test program.
 * Update 20180126: Completed project structure.
 * Update 20180128: Uploaded code from Perforce to Github for developing convience.
 * Update 20180220: Completed the main panel. Able to switch panels in between different VIs.
-* Update 20180301: There is a Functions VI being created to demonstrate the features in the program.
+* Update 20180226: There is a Functions VI being created to demonstrate the features in the program.
 #### Stage II: Framework Development
-* Update 20180315: There is a "BIG BUG" issue that sample button doesn't latch when pressed once.
-* Update 20180322: There is a ES file "Normal Beam.vi" File (MK-I) that demonstrates basic functions of the program.
+* Update 20180305: There is a "BIG BUG" issue that sample button doesn't latch when pressed once.
+* Update 20180322: There is a ES file "Normal Beam.vi" File that demonstrates basic functions of the program.
 * Update 20180323: Fixed a bug of connecting the axis of the plot to opposite side, and restructured the code.
 * Update 20180324: Fixed a small issue that the sample button does not latch.
 * Update 20180325: Project continueing permitted by Boeing. Determined future features to add.
