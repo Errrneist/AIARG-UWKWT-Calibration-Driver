@@ -45,7 +45,7 @@
 ## License
 * [Apache License 2.0](https://github.com/Errrneist/AIARG-UWKWT-Calibration-Driver/blob/master/LICENSE.txt)
 
-## Update History
+## Program Log
 #### Stage I: Drafting and Function Testing
 * Update 20171207: Project started after discussion.
 * Update 20171209: Finished theory building and created a flow chart.
