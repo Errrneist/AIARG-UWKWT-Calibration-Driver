@@ -90,7 +90,9 @@
 * Update 20180418: Organized file structure and optimized performance.
 * Update 20180419: Add calculation of slope, SD, and r^2 to each graph.
 * Update 20180420: Add a module to find best fit for the data.
+* Update 20180421: Engineering Sample MK-IV released.
 #### Stage VII: Beta Sample I (Hardware Testing)
+* Update 20180423: Decided to add a automated fit feature to the program. 
 #### Stage VIII: Beta Sample II (Optimization)
 #### Stage VX: Golden Master Edition (Review)
 #### Stage X: Final
