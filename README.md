@@ -14,7 +14,7 @@
 
 ## Contributor
 
-**Head of Project**
+**Principal Investigator**
 
 * *[Dr. Michael B. Bragg](https://www.aa.washington.edu/people/faculty/bragg)*
 
