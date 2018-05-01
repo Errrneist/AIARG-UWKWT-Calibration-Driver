@@ -84,7 +84,7 @@
 * Update 20180411: Add "Main Channel" and "Time" to the header.
 * Update 20180412: Optimize the format of the txt file.
 * Update 20180413: Engineering Sample MK-III Released. (Axial.vi)
-#### Stage VI: Engineering Sample MK-IV (Statistical Features)
+#### Stage VI: Engineering Sample MK-IV (1st Stage Statistical Features)
 * Update 20180414: Changed plot xy matrix to xy graph.
 * Update 20180415: Plotted graphs to xy graph.
 * Update 20180416: Changed color and plot line style to white.
@@ -93,7 +93,7 @@
 * Update 20180419: Add calculation of slope, SD, and r^2 to each graph.
 * Update 20180420: Add a module to find best fit for the data.
 * Update 20180421: Engineering Sample MK-IV released.
-#### Stage VII: Beta Sample I (Hardware Testing)
+#### Stage VII: Beta Sample I (2nd Stage Statistical Features)
 * Update 20180423: Decided to add a automated fit feature to the program. 
 * Update 20180425: Decided to use tabular structure than automated fit.
 * Update 20180430: Decided to fit three degree of polynomial fit in tabular window.
