@@ -95,6 +95,8 @@
 * Update 20180421: Engineering Sample MK-IV released.
 #### Stage VII: Beta Sample I (Hardware Testing)
 * Update 20180423: Decided to add a automated fit feature to the program. 
+* Update 20180425: Decided to use tabular structure than automated fit.
+* Update 20180430: Decided to fit three degree of polynomial fit in tabular window.
 #### Stage VIII: Beta Sample II (Optimization)
 #### Stage VX: Golden Master Edition (Review)
 #### Stage X: Final
