@@ -98,6 +98,8 @@
 * Update 20180423: Decided to add a automated fit feature to the program. 
 * Update 20180425: Decided to use tabular structure than automated fit.
 * Update 20180430: Decided to fit three degree of polynomial fit in tabular window.
+* Update 20180502: Finished the linear fit graphs.
+* Update 20180504: Finished second order polynomial fit graphs.
 #### Stage VIII: Beta Sample II (Optimization)
 #### Stage VX: Golden Master Edition (Review)
 #### Stage X: Final
