@@ -40,8 +40,9 @@
 
 * *Rami Slim*
 
-## Works Cited
+## Sources
 * [1] [ULX for NI Labview Documentation](https://www.mccdaq.com/PDFs/manuals/QS%20ULx%20for%20NI%20LabVIEW.pdf)
+* [2] [InstaCal](https://www.mccdaq.com/daq-software/instacal.aspx)
 
 ## License
 * [Apache License 2.0](https://github.com/Errrneist/AIARG-UWKWT-Calibration-Driver/blob/master/LICENSE.txt)
