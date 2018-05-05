@@ -101,4 +101,5 @@
 #### Stage VX: Golden Master Edition (Review)
 #### Stage X: Final
 
-
+## Works Cited
+* [1] [UlX for NI Labview Documentation and Quick Start Guide](https://www.mccdaq.com/PDFs/manuals/QS%20ULx%20for%20NI%20LabVIEW.pdf)
