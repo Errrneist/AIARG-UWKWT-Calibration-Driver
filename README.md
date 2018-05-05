@@ -100,6 +100,7 @@
 * Update 20180430: Decided to fit three degree of polynomial fit in tabular window.
 * Update 20180502: Finished first order linear fit graphs.
 * Update 20180504: Finished second order polynomial fit graphs.
+* Update 20180505: Fixed some minor bugs and optimized UI elements.
 #### Stage VIII: Beta Sample II (Optimization)
 #### Stage VX: Golden Master Edition (Review)
 #### Stage X: Final
