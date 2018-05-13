@@ -68,7 +68,7 @@
 * Update 20180316: Might need to rewrite the main framework to optimize performance.
 * Update 20180317: After discussion, decided to rewrite the main framework. GUI design planned.
 * Update 20180325: Main framework rewrote completed and old prototypes are moved to the prototypes folder.
-* Update 20180326: Engineering Sample MK-I (Normal Beam.vi) released.
+* Update 20180326: Engineering Sample MK-I released.
 #### Stage IV: Engineering Sample MK-II (Data Collection and Channel Module)
 * Update 20180329: Based on discussion, rewriting framework and GUI redesign started. 
 * Update 20180401: Found a way to work around the "BIG BUG" issue.
@@ -85,10 +85,10 @@
 * Update 20180410: Add a header to the output text file.
 * Update 20180411: Add "Main Channel" and "Time" to the header.
 * Update 20180412: Optimize the format of the txt file.
-* Update 20180413: Engineering Sample MK-III Released. (Axial.vi)
+* Update 20180413: Engineering Sample MK-III Released. 
 #### Stage VI: Engineering Sample MK-IV (1st Stage Statistical Features)
-* Update 20180414: Changed plot xy matrix to xy graph.
-* Update 20180415: Plotted graphs to xy graph.
+* Update 20180414: Changed plot XY matrix to XY graph.
+* Update 20180415: Plotted graphs to XY graph.
 * Update 20180416: Changed color and plot line style to white.
 * Update 20180417: Optimized GUI.
 * Update 20180418: Organized file structure and optimized performance.
