@@ -103,6 +103,8 @@
 * Update 20180504: Finished second order polynomial fit graphs.
 * Update 20180505: Fixed some minor bugs and optimized UI elements.
 * Update 20180509: Experienced some hardship while programming the fit for third order polynomial.
+* Update 20180513: Finished all polynomial fits wiring.
+* Update 20180514: Beta Sample I released.
 #### Stage VIII: Beta Sample II (Optimization)
 #### Stage VX: Golden Master Edition (Review)
 #### Stage X: Final
