@@ -40,8 +40,9 @@
 
 * *Rami Slim*
 
-## Works Cited
-* [1] [UlX for NI Labview Documentation and Quick Start Guide](https://www.mccdaq.com/PDFs/manuals/QS%20ULx%20for%20NI%20LabVIEW.pdf)
+## Sources
+* [1] [ULX for NI Labview Documentation](https://www.mccdaq.com/PDFs/manuals/QS%20ULx%20for%20NI%20LabVIEW.pdf)
+* [2] [InstaCal](https://www.mccdaq.com/daq-software/instacal.aspx)
 
 ## License
 * [Apache License 2.0](https://github.com/Errrneist/AIARG-UWKWT-Calibration-Driver/blob/master/LICENSE.txt)
@@ -100,6 +101,8 @@
 * Update 20180430: Decided to fit three degree of polynomial fit in tabular window.
 * Update 20180502: Finished first order linear fit graphs.
 * Update 20180504: Finished second order polynomial fit graphs.
+* Update 20180505: Fixed some minor bugs and optimized UI elements.
+* Update 20180509: Experienced some hardship while programming the fit for third order polynomial.
 #### Stage VIII: Beta Sample II (Optimization)
 #### Stage VX: Golden Master Edition (Review)
 #### Stage X: Final
