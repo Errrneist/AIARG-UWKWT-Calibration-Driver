@@ -1,6 +1,6 @@
 AIARG-UWKWT-Calibration Data
-Date: 2018/5/13 19:12:40
-Main Channel: Normal Force
+Date: 2018/5/14 18:44:39
+Main Channel: Axial Force
 --------------------------------------------------------------------
 [Weight] [Norm] [Axial] [n]     [P.M.]  [S.F.]  [Rolling Moment]
 0.000	-0.000	-0.500	NaN	NaN	NaN	NaN
@@ -13,3 +13,4 @@ Main Channel: Normal Force
 60.000	-0.000	0.500	-0.000	NaN	NaN	NaN
 70.000	-0.000	-0.500	-0.000	0.266	2.487	0.500
 80.000	-0.000	0.500	-0.000	NaN	NaN	-0.500
+90.000	-0.000	-0.500	-0.000	0.017	-2.488	0.500
