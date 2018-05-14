@@ -106,6 +106,7 @@
 * Update 20180512: Finished all polynomial fits wiring and optimized UI.
 * Update 20180513: Beta Sample I released.
 #### Stage VIII: Beta Sample II (Optimization)
+* Update 20180514: Determined several features and UI optimizations to do. Preparing to present to Boeing.
 #### Stage VX: Golden Master Edition (Review)
 #### Stage X: Final
 
