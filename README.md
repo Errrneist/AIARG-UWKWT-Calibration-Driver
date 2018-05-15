@@ -16,13 +16,13 @@
 
 **Principal Investigator**
 
-* *[Dr. Michael B. Bragg](https://www.aa.washington.edu/people/faculty/bragg)*
+* *[Dr. Michael B. Bragg](https://www.aa.washington.edu/people/faculty/bragg), Dean of School of Engineering*
 
 **Research Professor**
 
-* *[Dr. Christopher Lum](https://www.aa.washington.edu/people/faculty/lum)*
+* *[Dr. Christopher Lum](https://www.aa.washington.edu/people/faculty/lum), Research Assistant Professor*
 
-* *[Dr. Mohamad Reza Soltani](http://ae.sharif.edu/~web/homepage.php?username=msoltani)*
+* *[Dr. Mohamad Reza Soltani](http://ae.sharif.edu/~web/homepage.php?username=msoltani), Visiting Professor*
 
 **Software Developer**
 
