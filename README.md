@@ -8,6 +8,7 @@
 * Based on Labview and [ULx](https://www.mccdaq.com/daq-software/universal-library-extensions-lv.aspx) Package for Labview.
 * The software reads and samples signals from six channels and processes the sampled data.
 * It is capable to sample, record, plot, fit, analyze, and write Post-Processed matrix to a file.
+* To fire up the software, refer to the [WIKI](https://github.com/Errrneist/AIARG-UWKWT-Calibration-Driver/wiki).
 
 
 <img align="right" src="https://github.com/Errrneist/AIARG-UWKWT-Calibration-Driver/blob/master/IMG/UW-AA.jpg" alt="University of Washington" width="350">
