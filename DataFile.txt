@@ -1,10 +1,26 @@
 AIARG-UWKWT-Calibration Data
-Date: 2018/5/14 22:25:29
-Main Channel: Axial Force
+Date: 2018/5/17 6:36:32
+Main Channel: Normal Force
 --------------------------------------------------------------------
 [Weight] [Norm] [Axial] [n]     [P.M.]  [S.F.]  [Rolling Moment]
-0.000	-0.000	0.500	-0.000	0.266	2.487	-0.500
-10.000	-0.000	-0.500	NaN	NaN	NaN	NaN
-20.000	NaN	0.500	NaN	NaN	NaN	NaN
-40.000	NaN	-0.500	NaN	NaN	NaN	0.500
-40.000	-0.000	0.500	NaN	0.017	NaN	-0.500
+0.000	-0.000	-0.500	-0.000	0.266	NaN	-0.500
+10.000	-0.000	0.500	NaN	NaN	NaN	NaN
+20.000	NaN	-0.500	NaN	NaN	NaN	NaN
+30.000	-0.000	0.500	NaN	NaN	NaN	NaN
+40.000	-0.000	-0.500	-0.000	0.017	-2.488	NaN
+50.000	-0.000	0.500	-0.000	0.266	2.487	0.500
+60.000	NaN	-0.500	NaN	NaN	NaN	NaN
+70.000	-0.000	0.500	NaN	NaN	NaN	NaN
+80.000	NaN	-0.500	NaN	NaN	NaN	NaN
+90.000	-0.000	0.500	-0.000	NaN	-2.488	NaN
+100.000	-0.000	-0.500	NaN	NaN	NaN	NaN
+90.000	-0.000	0.500	-0.000	NaN	2.487	NaN
+80.000	NaN	-0.500	NaN	NaN	NaN	NaN
+70.000	NaN	0.500	NaN	NaN	NaN	NaN
+80.000	-0.000	-0.500	-0.000	NaN	-2.488	NaN
+70.000	-0.000	0.500	-0.000	0.017	2.487	NaN
+60.000	-0.000	-0.500	NaN	NaN	NaN	NaN
+50.000	-0.000	0.500	-0.000	NaN	NaN	NaN
+40.000	NaN	-0.500	NaN	NaN	NaN	NaN
+30.000	-0.000	0.500	NaN	NaN	NaN	NaN
+20.000	NaN	-0.500	NaN	0.266	NaN	-0.500
