@@ -8,6 +8,7 @@
 * Based on Labview and [ULx](https://www.mccdaq.com/daq-software/universal-library-extensions-lv.aspx) Package for Labview.
 * The software reads and samples signals from six channels and processes the sampled data.
 * It is capable to sample, record, plot, fit, analyze, and write Post-Processed matrix to a file.
+* To fire up the software, refer to the [WIKI](https://github.com/Errrneist/AIARG-UWKWT-Calibration-Driver/wiki).
 
 
 <img align="right" src="https://github.com/Errrneist/AIARG-UWKWT-Calibration-Driver/blob/master/IMG/UW-AA.jpg" alt="University of Washington" width="350">
@@ -106,6 +107,8 @@
 * Update 20180512: Finished all polynomial fits wiring and optimized UI.
 * Update 20180513: Beta Sample I released.
 #### Stage VIII: Beta Sample II (Optimization)
+* Update 20180514: Determined several features and UI optimizations to do. 
+* Update 20180515: Prepared an engineering sample to present to Boeing.
 #### Stage VX: Golden Master Edition (Review)
 #### Stage X: Final
 
