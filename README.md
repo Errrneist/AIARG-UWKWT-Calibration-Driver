@@ -111,7 +111,7 @@
 * Update 20180515: Prepared an engineering sample to present to Boeing.
 * Update 20180517: Met with Dr. Bragg and Boeing to report project status and determine what to do next.
 * Update 20180518: Upon Dr. Bragg's request, the program will add data analyzing feature.
-* Update 20180518: Program stage plan changed.
+* Update 20180519: Program stage plan changed.
 #### Stage VX: Beta Sample III (Finalize Calibration Feature)
 #### Stage X: Beta Sample IV (Data Analyze Feature)
 #### Stage XI: Beta Sample V (Finalize Analyze Feature)
