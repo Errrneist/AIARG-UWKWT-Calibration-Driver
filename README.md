@@ -4,10 +4,11 @@
 **[University of Washington](http://www.washington.edu/) [Kirsten Wind Tunnel](https://www.aa.washington.edu/AERL/KWT)-[Aircraft Icing and Aerodynamics Research Group](https://www.aa.washington.edu/research/AIARG)**
 
 *[William E. Boeing Department of Aeronautics & Astronautics](https://www.aa.washington.edu/), [Boeing](http://www.boeing.com/), [NASA](https://www.nasa.gov/), [FAA](https://www.faa.gov).*
-* A software for the University of Washington Kirsten Wind Tunnel to perform [Custom Calibration Tasks](https://github.com/Errrneist/AIARG-UWKWT-Calibration-Driver/blob/master/Documents/KWT_Sidewall_Software_Diagram.pdf). 
+* A software for the University of Washington Kirsten Wind Tunnel to perform [Custom Calibration Tasks](https://github.com/Errrneist/AIARG-UWKWT-Calibration-Driver/blob/master/Documents/KWT_Sidewall_Software_Diagram.pdf).
 * Based on Labview and [MCCDAQ ULx for NI LabVIEW™](https://www.mccdaq.com/daq-software/universal-library-extensions-lv.aspx) Package for Labview.
 * The software reads and samples signals from six channels and processes the sampled data.
 * It is capable to sample, record, plot, fit, analyze, and write Post-Processed matrix to a file.
+* System Requirement: LabVIEW 2017 or newer, MCCDAQ ULx.
 * To fire up the software, refer to the [WIKI](https://github.com/Errrneist/AIARG-UWKWT-Calibration-Driver/wiki).
 
 
