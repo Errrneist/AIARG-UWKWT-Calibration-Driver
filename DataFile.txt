@@ -1,21 +1,67 @@
 AIARG-UWKWT-Calibration Data
-Date: 2018/8/18 4:05:06
+Date: 2018/9/17 0:38:53
 Main Channel: Axial Force
------------------------------------------------Fitted Function-------------------------------------------------
+------------------------------------------Fitted Function------------------------------------------
 [Normal Force]
 [First Order Fit Function]
-f(x) =  * x +  (Residue: )
+f(x) = NaN * x + NaN (Residue: NaN)
 [Second Order Fit Function]
+f(x) = NaN * x^2 + NaN * x + NaN (Residue: NaN)
+[Third Order Fit Function]
+f(x) = NaN * x^3 + NaN * x^2 + NaN * x + NaN (Residue: NaN)
+
+
+[Axial Force]
+[First Order Fit Function]
+f(x) = 0 * x + -0 (Residue: 0)
+[Second Order Fit Function]
+f(x) = 0 * x^2 + -0 * x + 0 (Residue: 0)
+[Third Order Fit Function]
+f(x) = 0 * x^3 + -0 * x^2 + 0 * x + -0 (Residue: 0)
+
+[n Force]
+[First Order Fit Function]
+f(x) = NaN * x + NaN (Residue: NaN)
+[Second Order Fit Function]
+f(x) = NaN * x^2 + NaN * x + NaN (Residue: NaN)
+[Third Order Fit Function]
+f(x) = NaN * x^3 + NaN * x^2 + NaN * x + NaN (Residue: NaN)
+
+[pm Force]
+[First Order Fit Function]
+f(x) = NaN * x + NaN (Residue: NaN)
+[Second Order Fit Function]
+f(x) = NaN * x^2 + NaN * x + NaN (Residue: NaN)
+[Third Order Fit Function]
+f(x) = NaN * x^3 + NaN * x^2 + NaN * x + NaN (Residue: NaN)
+
+[sf Force]
+[First Order Fit Function]
+f(x) = NaN * x + NaN (Residue: NaN)
+[Second Order Fit Function]
+f(x) = NaN * x^2 + NaN * x + NaN (Residue: NaN)
+[Third Order Fit Function]
+f(x) = NaN * x^3 + NaN * x^2 + NaN * x + NaN (Residue: NaN)
+
+
+
+[Rolling Motion]
+[First Order Fit Function]
+f(x) = NaN * x + NaN (Residue: NaN)
+[Second Order Fit Function]
+f(x) = NaN * x^2 + NaN * x + NaN (Residue: NaN)
+[Third Order Fit Function]
+f(x) = NaN * x^3 + NaN * x^2 + NaN * x + NaN (Residue: NaN)
+
 ------------------------------------------------------Data Matrix-----------------------------------------------------------
  [Weight]     [Normal Force]  [Axial Force]        [n]           [P.M.]           [S.F.]      [Rolling Motion]
-0.000000	-0.000076	-0.500084	-0.000076	0.266117	-2.487634	-0.500084
-10.000000	-0.000076	0.499931	-0.000076	0.016968	2.487483	0.499931
-20.000000	-0.000076	-0.500084	-0.000076	0.266117	-2.487634	-0.500084
-30.000000	-0.000076	0.499931	-0.000076	0.016968	2.487483	0.499931
-40.000000	-0.000076	-0.500084	-0.000076	0.266117	-2.487634	-0.500084
-50.000000	-0.000076	0.499931	-0.000076	0.016968	2.487483	0.499931
-60.000000	-0.000076	-0.500084	-0.000076	0.266117	-2.487634	-0.500084
-70.000000	-0.000076	0.499931	-0.000076	0.016968	2.487483	0.499931
-80.000000	-0.000076	-0.500084	-0.000076	0.266117	-2.487634	-0.500084
-90.000000	-0.000076	0.499931	-0.000076	0.016968	2.487483	0.499931
-100.000000	-0.000076	-0.500084	-0.000076	0.266117	-2.487634	-0.500084
+0.000000	-0.000076	0.499931	-0.000076	NaN	-2.487634	NaN
+15.000000	-0.000076	-0.500084	NaN	NaN	NaN	NaN
+27.000000	NaN	0.499931	NaN	NaN	NaN	NaN
+56.000000	-0.000076	-0.500084	-0.000076	NaN	2.487483	NaN
+98.000000	-0.000076	0.499931	-0.000076	NaN	NaN	NaN
+124.000000	-0.000076	-0.500084	NaN	NaN	NaN	NaN
+148.000000	-0.000076	0.499931	-0.000076	NaN	NaN	NaN
+56.000000	NaN	-0.500084	NaN	NaN	NaN	NaN
+79.000000	NaN	0.499931	NaN	NaN	NaN	NaN
+97.000000	NaN	-0.500084	NaN	NaN	-2.487634	NaN
