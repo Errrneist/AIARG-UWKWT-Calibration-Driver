@@ -1,23 +1,23 @@
 AIARG-UWKWT-Calibration Data
-Date: 2018/9/17 0:38:53
+Date: 2018/10/4 4:25:55
 Main Channel: Axial Force
 ------------------------------------------Fitted Function------------------------------------------
 [Normal Force]
 [First Order Fit Function]
-f(x) = NaN * x + NaN (Residue: NaN)
+f(x) = -0 * x + -5 (Residue: 0)
 [Second Order Fit Function]
-f(x) = NaN * x^2 + NaN * x + NaN (Residue: NaN)
+f(x) = -5 * x^2 + -0 * x + -0 (Residue: 0)
 [Third Order Fit Function]
-f(x) = NaN * x^3 + NaN * x^2 + NaN * x + NaN (Residue: NaN)
+f(x) = -5 * x^3 + -0 * x^2 + 0 * x + 0 (Residue: 0)
 
 
 [Axial Force]
 [First Order Fit Function]
-f(x) = 0 * x + -0 (Residue: 0)
+f(x) = -0 * x + -5 (Residue: 0)
 [Second Order Fit Function]
-f(x) = 0 * x^2 + -0 * x + 0 (Residue: 0)
+f(x) = -5 * x^2 + -0 * x + -0 (Residue: 0)
 [Third Order Fit Function]
-f(x) = 0 * x^3 + -0 * x^2 + 0 * x + -0 (Residue: 0)
+f(x) = -5 * x^3 + -0 * x^2 + 0 * x + 0 (Residue: 0)
 
 [n Force]
 [First Order Fit Function]
@@ -55,13 +55,10 @@ f(x) = NaN * x^3 + NaN * x^2 + NaN * x + NaN (Residue: NaN)
 
 ------------------------------------------------------Data Matrix-----------------------------------------------------------
  [Weight]     [Normal Force]  [Axial Force]        [n]           [P.M.]           [S.F.]      [Rolling Motion]
-0.000000	-0.000076	0.499931	-0.000076	NaN	-2.487634	NaN
-15.000000	-0.000076	-0.500084	NaN	NaN	NaN	NaN
-27.000000	NaN	0.499931	NaN	NaN	NaN	NaN
-56.000000	-0.000076	-0.500084	-0.000076	NaN	2.487483	NaN
-98.000000	-0.000076	0.499931	-0.000076	NaN	NaN	NaN
-124.000000	-0.000076	-0.500084	NaN	NaN	NaN	NaN
-148.000000	-0.000076	0.499931	-0.000076	NaN	NaN	NaN
-56.000000	NaN	-0.500084	NaN	NaN	NaN	NaN
-79.000000	NaN	0.499931	NaN	NaN	NaN	NaN
-97.000000	NaN	-0.500084	NaN	NaN	-2.487634	NaN
+0.000000	-5.000000	-5.000000	-5.000000	NaN	NaN	NaN
+10.000000	-5.000000	-5.000000	-5.000000	NaN	-5.000000	NaN
+20.000000	-5.000000	-5.000000	-5.000000	-5.000000	-5.000000	-5.000000
+30.000000	-5.000000	-5.000000	-5.000000	NaN	-5.000000	NaN
+40.000000	-5.000000	-5.000000	-5.000000	NaN	NaN	NaN
+50.000000	-5.000000	-5.000000	NaN	NaN	NaN	NaN
+60.000000	-5.000000	-5.000000	-5.000000	NaN	-5.000000	NaN
